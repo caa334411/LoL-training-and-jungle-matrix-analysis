@@ -1,3 +1,4 @@
+```text
 lol-bigdata-project/
 ├── data/                                 # Raw and intermediate data directory (Git ignored)
 │   └── match_timeline.csv                # Raw 700MB+ match timeline dataset
@@ -9,3 +10,4 @@ lol-bigdata-project/
 │   └── scaling_test.py                   # Strong scalability benchmark test (1, 2, 4 cores)
 ├── README.md                             # Project documentation
 └── requirements.txt                      # Python dependencies list (PySpark, etc.)
+```
